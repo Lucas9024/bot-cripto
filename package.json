@@ -1,0 +1,24 @@
+{
+  "name": "bot-cripto",
+  "version": "1.0.0",
+  "description": "\"# bot-cripto\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas9024/bot-cripto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas9024/bot-cripto/issues"
+  },
+  "homepage": "https://github.com/Lucas9024/bot-cripto#readme",
+  "dependencies": {
+    "puppeteer": "^18.2.1",
+    "readline-sync": "^1.4.10"
+  }
+}
